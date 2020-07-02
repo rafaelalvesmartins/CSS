@@ -1,3 +1,4 @@
+#teste 2
 import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 import time
